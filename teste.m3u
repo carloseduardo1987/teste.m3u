@@ -436,14 +436,8 @@ http://s.tvmaster.net:80/estenio/1217/1603
 
 
 
-#EXTINF:-1 tvg-logo="https://s19.postimg.org/72a42n79v/sportv.png" group-title="esportes", SPORTV 
-http://5.79.68.138:8081/look/sportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://s20.postimg.org/ccq9oobd5/Spor_TV2.png SporTV 2" group-title="",SPORTV 2
-http://5.79.68.138:8081/look/sportv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.playhdtv.pw/img/PFC.png" group-title="ESPORTES",PFC - SD 
-http://bit.ly/2odi0KO
+#EXTINF:-1,DISCOVERY KIDS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL303/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 
 
 
