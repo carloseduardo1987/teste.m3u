@@ -436,33 +436,19 @@ http://s.tvmaster.net:80/estenio/1217/1603
 
 
 
-################################################################################# Filmes e Series
- 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/aTOLo6x.png" group-title="Filmes e Séries",Chaves 24H
-http://167.114.140.230/margaretede3116/margaretede3116/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,SPORT TV 1
-http://188.165.13.95:8080/8/index.m3u8
-#EXTINF:0,SPORT TV 1 HD
-http://188.165.13.95:8080/33/index.m3u8
-
-
-
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste  sportv 1
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo124ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste sportv 2
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo224ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste sportv 3
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo324ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , Teste sportv 9
+#EXTBG: #ff0000
+http://ftv.ftgrm.me:8082/spo924ha/750/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="http://1.bp.blogspot.com/-sFhEBRhVscI/TpkAUfkrH3I/AAAAAAAAAEc/Pq4OHod0MJI/s1600/teste1.png" , teste sportv 11
 
 
 
