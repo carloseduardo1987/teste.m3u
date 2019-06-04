@@ -4,7 +4,7 @@
 
 ################## DOCUMENTARIOS ########################
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjYpN2o487iAhWCrFkKHR3lAaEQjRx6BAgBEAU&url=http%3A%2F%2Fphythermarques.blogspot.com%2F2018%2F03%2Flista-teste-iptv.html&psig=AOvVaw0_cctKF3Lu0ygrDr5Snyli&ust=1559701551627680" group-title="CANAIS TV - ESPORTES " pltv-subgroup="FUTEBOL", SPORTV
-https://betohost.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgNToxMToyNiBBTSZoYXNoX3ZhbHVlPTl4Q1Z4MWtNWXZIT0V4eEQyRmZaUHc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+#EXTINF:-1 tvg-logo="http://www.agencialift.com.br/wp-content/uploads/2016/04/sportv.png" group-title="CANAIS TV - ESPORTES " pltv-subgroup="FUTEBOL", SPORTV
+https://betohost.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgNTo1NDoxNSBBTSZoYXNoX3ZhbHVlPWN4NTg4RXBmZ2JWSktRU3dMSG1ma1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 
