@@ -4,7 +4,7 @@
 
 ################## DOCUMENTARIOS ########################
 
-#EXTINF:-1 tvg-logo="http://www.agencialift.com.br/wp-content/uploads/2016/04/sportv.png" group-title="CANAIS TV - ESPORTES " pltv-subgroup="FUTEBOL", SPORTV
+#EXTINF:-1 tvg-logo="http://www.agencialift.com.br/wp-content/uploads/2016/04/sportv.png" group-title=" ESPORTES " pltv-subgroup="FUTEBOL", SPORTV
 https://fun.kastream.biz/edge/sper1/chunks.m3u8?nimblesessionid=1046903&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgODoyMDozNyBBTSZoYXNoX3ZhbHVlPTlzS3dhMElreld0dXFvUU1KN2NUeFE9PSZ2YWxpZG1pbnV0ZXM9MTI
 
 #EXTINF:-1 tvg-id="" tvg-lhttps://fun.kastream.biz/edge/sper1/chunks.m3u8?nimblesessionid=1046903&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgODoyMDozNyBBTSZoYXNoX3ZhbHVlPTlzS3dhMElreld0dXFvUU1KN2NUeFE9PSZ2YWxpZG1pbnV0ZXM9MTIogo="/iptv-list.jpg" group-title="canais",DTTV HD
