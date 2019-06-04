@@ -5,11 +5,9 @@
 ################## DOCUMENTARIOS ########################
 
 #EXTINF:-1 tvg-logo="http://www.agencialift.com.br/wp-content/uploads/2016/04/sportv.png" group-title="CANAIS TV - ESPORTES " pltv-subgroup="FUTEBOL", SPORTV
-https://betohost.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgNTo1NDoxNSBBTSZoYXNoX3ZhbHVlPWN4NTg4RXBmZ2JWSktRU3dMSG1ma1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+https://fun.kastream.biz/edge/sper1/chunks.m3u8?nimblesessionid=1046903&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgODoyMDozNyBBTSZoYXNoX3ZhbHVlPTlzS3dhMElreld0dXFvUU1KN2NUeFE9PSZ2YWxpZG1pbnV0ZXM9MTI
 
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",DTTV HD
+#EXTINF:-1 tvg-id="" tvg-lhttps://fun.kastream.biz/edge/sper1/chunks.m3u8?nimblesessionid=1046903&wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgODoyMDozNyBBTSZoYXNoX3ZhbHVlPTlzS3dhMElreld0dXFvUU1KN2NUeFE9PSZ2YWxpZG1pbnV0ZXM9MTIogo="/iptv-list.jpg" group-title="canais",DTTV HD
 http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
  
 #EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",FM O Dia
@@ -433,21 +431,6 @@ http://s.tvmaster.net:80/estenio/1217/1603
 
 
 
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/imzsxuasv/logo_sport_tv_7.png" group-title="Esportes",Sport TV HD
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/d03g0d8a7/logo_sport_tv_7.png" group-title="Esportes",Sport TV 2 HD
-http://178.192.242.14:9000/play/a08o?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/9uiua5pnz/logo_sport_tv_11.png" group-title="Esportes",Sport TV 3 HD
-http://178.192.242.14:9000/play/a08b?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/wkhz358vj/logo_sport_tv_8.png" group-title="Esportes",Sport TV 4 HD
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://s1.postimg.org/i2krv5hkf/logo_sport_tv_8.png" group-title="Esportes",Sport TV 5 HD
-http://178.192.242.14:9000/play/a082?PEDROJUNIORTUTORIAIS
 
 
 
