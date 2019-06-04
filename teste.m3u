@@ -8,3 +8,424 @@
 https://betohost.azureedge.net/hls1/sportv1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni80LzIwMTkgNTo1NDoxNSBBTSZoYXNoX3ZhbHVlPWN4NTg4RXBmZ2JWSktRU3dMSG1ma1E9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
 
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",DTTV HD
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",FM O Dia
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",Rede Meio Norte
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV INES
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV Diário
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",HOT MUSIC
+http://wow01.105.net/live/rmc1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV ESCOLA HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",Rede New
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",Super Radio Tupi
+http://cdn.rj.assocrj.com.br:80/live//tupi-estudio-video06/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV Rio Preto
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV Povo Cigano
+http://streaming30.sitehosting.com.br:1935/cigano/cigano/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV Transamerica
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",- TV CULTURA MG-
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) - REDE NEW-
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",SBT MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",RECORD TV ÁGUA BOA
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE FAMÍLIA HD
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE BRASIL®
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV CULTURA MG
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV CULTURA PA
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TV PANTANAL - MS
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist_w636935633.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) REDE SIM
+http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) MTV CLIPES 1
+http://rtmp.one.by:1200
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) TV UNIÃO HD RN
+http://flash3.locamega.com.br:1935/locamega/locamega/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TV NOVA PARAIBA
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8?wowzasessionid=1451503404
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TV FLORIPA
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) TV INES HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) DTTV
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de filmes",(ONLINE) TV PANTANAL
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de filmes",(ONLINE) 24 HORAS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de filmes",(ONLINE) CINE SKY
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de filmes",(ONLINE) CINE FILMES 2
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=525649341
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de filmes",(ONLINE) SÓ FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de filmes",(ONLINE) CAPITAL777
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) RADIO 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) MUSIC CHOICE
+https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) HIT TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) XITE
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) RADIO U
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:radioutv_all/rightbrainmedia-live-109/radioutv1/chunks.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) RADIO BRUNO
+http://37.48.83.34:80/radiobrunotv/radiobrunotv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) RADIO CONTACT FEEL GOOD
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",(ONLINE) PORTAL FOXMIX
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",XITE
+http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) -GOSPEL CARTOON-
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) - TV CULTURA MG-
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) - KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids3/TeamBlue.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) - REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) - DISNEY JR SD
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8784%2Ce684993f245c481f1f1bb14b273256e3%3Bbase64np%3B-uribHdW7Nh31Zw%21/amlst%3A-uoadWod6dlolRBm/chunklist_b1089536.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) WEB TV NOVA PARAÍBA
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) WOW TV | SD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) Animes
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",(ONLINE) -GOSPEL CARTOON-
+http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",(ONLINE) - REDE BRASIL
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) - ESPN ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) - ESPN BRASIL ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) TELPIN 2 HD ARGENTINA
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) TSN
+http://wms.shared.streamshow.it/tsn/tsn/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",- ESPN ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",-ESPN 2 ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C9ec60c643a1230d86dc50926adad9faa%3Bbase64np%3BGP-IfJ-7Ok-32mA%21/amlst%3AGP9wZYLwP06omuz_/chunklist_b964608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",- ESPN BRASIL ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) - ESPN ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2Cb3613fa25a4b07654e97c8b7619d8f31%3Bbase64np%3BsRXx4lbShFv2ySM%21/amlst%3AsRUJ-0uZgVrpia_u/chunklist_b964608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) - ESPN BRASIL ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C0c93d3a53ee212d5d9b0e2e3a2114102%3Bbase64np%3Bt0Ra-0WB1fg0PMk%21/amlst%3At0Si4ljK0PkrfEV_/chunklist_b964608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",(ONLINE) - ESPN EXTRA ALT
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C8466%2C3958f83a366a90dbbd093f8907129171%3Bbase64np%3Bk_t80-AGg9JIUeY%21/amlst%3Ak_uEyv1NhtNXEWo1/chunklist_b708608.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",AGRO BRASIL
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais esport",ALL SPORTS TV
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",BAH! TV
+http://cdn.jmvstream.com:80/live/hls/lv_471/LV471_dKBokXVIZj.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",CANAL 20 TV
+http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",CANAL SETE
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",CATVE
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",CONECTV
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",CORREIO GOIANO TV
+http://tv01.logicahost.com.br:1935/correiogoianotv/correiogoianotv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",DTTV
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais desenho",FONTE TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",GEN TV
+http://wse5.player.tv.br:1935/evento1/evento1_720p/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",GOSPEL MOVIES TELEVISION
+http://stmv2.euroti.com.br:1935/gospelf/gospelf/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",GUARU FAMA TV
+http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",INFOR BAHIA WEB TV
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais de musica",KISS TV
+http://stmv3.euroti.com.br:1935/kisstv/kisstv/live.m3u8
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",MKK WEB TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",MUSIC TELEVISION WEB
+http://stmv4.euroti.com.br:1935/cancaogospel/cancaogospel/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",NOVA ERA TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",PORTAL NEWS WEB TV
+http://stmv3.euroti.com.br:1935/portalnews/portalnews/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",RECORD NEWS ES
+http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE ATIVIDADE
+http://tv01.logicahost.com.br:1935/redeatividade/redeatividade/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE BRASIL
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",REDE TV RONDÔNIA
+http://tv01.logicahost.com.br:1935/tvonline/tvonline/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",SBT
+http://bitly.com:80/Sbt-hd
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TOP TV
+http://stmv3.euroti.com.br:1935/toptv/toptv/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV A CARA DA BAHIA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV A CRÍTICA
+http://slbps-sambatech.akamaized.net:80/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b2146304.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV ALERJ
+http://199.189.86.19:1935/live/tvc/livestream.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV AMBIENTAL
+http://59e4b6c1beddc.streamlock.net:1935/8168/8168/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV CARIOCA NET
+http://593d7fe3c9b0d.streamlock.net:1935/tvcarioca/tvcarioca/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV CINEC
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV CLIMA
+http://stmv1.euroti.com.br:1935/tvcadm/tvcadm/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV DIÁRIO
+http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",TV DIÁRIO DO SERTÃO
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="canais",SBT HD2018
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",SBT HD2018
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",SBT HD 1080
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?CANAISGLAU
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",Tv Aracati HD
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8?CIDINHOtv.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",AMAZON SAT
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",TV Gazeta SP HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?PEDROJUNIORTUTORIAIS
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",TV GAZETA HD
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="/iptv-list.jpg" group-title="CANAIS FAVORITOS",GLOBO HD
+http://s.tvmaster.net:80/estenio/1217/1603
+
